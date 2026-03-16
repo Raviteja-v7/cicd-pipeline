@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+coverage
+tests
+.git
+.gitignore
+.env
+.env.*
+terraform
+.github
+*.md
+Makefile
+docker-compose*.yml
